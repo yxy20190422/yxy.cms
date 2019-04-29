@@ -13,3 +13,5 @@ namespace Sample.Models
         public List<Content> Contents { get; set; }
     }
 }
+
+
